@@ -8,5 +8,8 @@ public class Main {
         System.out.println(date.toString());
         System.out.println("Hello");
         System.out.println("Added a commit");
+
+        Student s1 = new Student();
+        s1.sayHello();
     }
 }

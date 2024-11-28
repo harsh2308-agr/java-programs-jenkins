@@ -7,5 +7,6 @@ public class Main {
         Date date = new Date();
         System.out.println(date.toString());
         System.out.println("Hello");
+        System.out.println("Added a commit");
     }
 }
